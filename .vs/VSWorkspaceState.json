@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Burger",
+    "\\src\\components\\Burger\\BuildControls",
+    "\\src\\components\\Burger\\BuildControls\\BuildControl",
+    "\\src\\components\\Burger\\OrderSummary",
+    "\\src\\components\\UI",
+    "\\src\\components\\UI\\Backdrop",
+    "\\src\\components\\UI\\Modal",
+    "\\src\\hoc"
+  ],
+  "SelectedNode": "\\src\\hoc\\Auxilliary.js",
+  "PreviewInSolutionExplorer": false
+}
